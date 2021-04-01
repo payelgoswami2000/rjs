@@ -1,0 +1,39 @@
+ .hello{ 
+     /* display: flex;
+    background: white;
+    margin-top: 5px;
+    align-items: center;  */
+     margin-left: 26rem;
+     margin-top: 1.8rem;
+     
+     
+
+} 
+ #button{
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    background-color: rgba(255, 0, 0, 0.733);
+    height: 50%;
+    width: 18vw;
+
+}  
+ .main{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+
+}
+.btn{
+    position: center;
+    margin-top: 25rem;
+    margin-left: 44rem;
+    width: 7rem;
+    padding: 6px;
+   
+    
+   
+
+}
